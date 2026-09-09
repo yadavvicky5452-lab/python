@@ -1,2 +1,2 @@
-# Delta
-this is a demo for git &amp; github class
+# Phython
+this is a demo for git &amp; github class.
